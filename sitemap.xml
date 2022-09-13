@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://rozisatorz.github.io/soy-candle-stuff/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://rozisatorz.github.io/soycandlestuff/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://rozisatorz.github.io/soy-candle-stuff/</loc>
+<loc>https://rozisatorz.github.io/soycandlestuff/</loc>
 </url>
 <url>
-<loc>https://rozisatorz.github.io/soy-candle-stuff/soy-candles-near-me.html</loc>
+<loc>https://rozisatorz.github.io/soycandlestuff/soy-candles-near-me.html</loc>
 <lastmod>2022-09-12T15:32:08-04:00</lastmod>
 <image:image>
-<image:loc>https://rozisatorz.github.io/soy-candle-stuff/media/posts/2/soy-candles-near-me-2.jpg</image:loc>
+<image:loc>https://rozisatorz.github.io/soycandlestuff/media/posts/2/soy-candles-near-me-2.jpg</image:loc>
 <image:title><![CDATA[Soy-Candles-Near-Me]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://rozisatorz.github.io/soy-candle-stuff/media/posts/2/where-to-find-soy-candles-near-me.jpg</image:loc>
+<image:loc>https://rozisatorz.github.io/soycandlestuff/media/posts/2/where-to-find-soy-candles-near-me.jpg</image:loc>
 <image:title><![CDATA[Soy-Candles-Near-Me]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://rozisatorz.github.io/soy-candle-stuff/media/posts/2/where-to-buy-soy-candles-near-me.jpg</image:loc>
+<image:loc>https://rozisatorz.github.io/soycandlestuff/media/posts/2/where-to-buy-soy-candles-near-me.jpg</image:loc>
 <image:title><![CDATA[where-to-find-soy-candles-near-me]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://rozisatorz.github.io/soy-candle-stuff/where-can-i-buy-soy-candles.html</loc>
+<loc>https://rozisatorz.github.io/soycandlestuff/where-can-i-buy-soy-candles.html</loc>
 <lastmod>2022-09-12T19:28:33-04:00</lastmod>
 <image:image>
-<image:loc>https://rozisatorz.github.io/soy-candle-stuff/media/posts/1/where-can-i-buy-soy-candles.jpg</image:loc>
+<image:loc>https://rozisatorz.github.io/soycandlestuff/media/posts/1/where-can-i-buy-soy-candles.jpg</image:loc>
 <image:title><![CDATA[Where Can I Buy Soy Candles]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://rozisatorz.github.io/soy-candle-stuff/media/posts/1/where-can-i-buy-soy-candles-near-me.jpg</image:loc>
+<image:loc>https://rozisatorz.github.io/soycandlestuff/media/posts/1/where-can-i-buy-soy-candles-near-me.jpg</image:loc>
 <image:title><![CDATA[where-can-i-buy-soy-candles-near-me]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://rozisatorz.github.io/soy-candle-stuff/media/posts/1/where-to-buy-soy-wax-melts.jpg</image:loc>
+<image:loc>https://rozisatorz.github.io/soycandlestuff/media/posts/1/where-to-buy-soy-wax-melts.jpg</image:loc>
 <image:title><![CDATA[where-to-buy-soy-wax-melts]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://rozisatorz.github.io/soy-candle-stuff/media/posts/1/are-soy-candles-natural-2.jpg</image:loc>
+<image:loc>https://rozisatorz.github.io/soycandlestuff/media/posts/1/are-soy-candles-natural-2.jpg</image:loc>
 <image:title><![CDATA[are-soy-candles-natural]]></image:title>
 </image:image>
 </url>
